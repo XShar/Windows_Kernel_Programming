@@ -1,8 +1,6 @@
 # Windows_Kernel_Programming
 Windows Kernel Programming (Обзорный перевод книги)
 
-Windows Kernel Programming (Обзорный перевод книги)
-
 В этом репозитории будут размещаться мой "обзорный пересказ/перевод" книги Windows Kernel Programming (leanpub.com/windowskernelprogramming), от Павла Иосивича.
 
 Оригинал книги можно купить по ссылке выше.
